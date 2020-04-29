@@ -9,6 +9,14 @@ CanExpandTextView
 ```java
 implementation 'com.github.lixiongh-hou:CanExpandView:最新版本'
 ```
+```java
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
 
 xml使用 两个TextView的id必须定义
  
