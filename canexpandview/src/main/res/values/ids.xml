@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="visible_context_tv" type="id"/>
+    <item name="click_expand_tv" type="id"/>
+
+</resources>
