@@ -1,5 +1,5 @@
 ### CanExpandView
-CanExpandTextView
+可展开的TextView
 
 
 [![](https://jitpack.io/v/lixiongh-hou/CanExpandView.svg)](https://jitpack.io/#lixiongh-hou/CanExpandView)
